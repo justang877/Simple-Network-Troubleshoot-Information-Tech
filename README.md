@@ -1,4 +1,5 @@
 Assignment Prompt: 
+
 Step 1: Create a better ping command
 Use ping -h to look up the options that you can use with the ping command. Create an alias so that when you execute ping it stops after 5 tries and shows hostnames if they are available.
 Create an alias so that when you execute slowping it does the same thing as your new ping command and it also waits for 3 seconds between each attempt.
